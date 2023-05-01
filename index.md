@@ -1,13 +1,12 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: James Chandler's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# James Chandler
+IT Consultant, Technology Integration
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="jamesrc@us.ibm.com">jamesrc@us.ibm.com</a>
 </div>
 
 
@@ -27,18 +26,12 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`1993`
+<b>Transylvania University, Lexington, KY</b>
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+Bachelor of Science, August 1993
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+Major: Computer Science Minor: Business Administration
 
 
 
